@@ -1,0 +1,3758 @@
+fileFormatVersion: 2
+guid: 52acb3ac9adc3a5429124d9201ec584b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1546
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b4087ebd51122449f11a4b337bbf84
+      internalID: -1050453525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1546
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ec43a5abbcd84c9109ec2d8db86d6
+      internalID: -843244212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1546
+        width: 22
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f1a208a7d2e964bb664d55cdecb11d
+      internalID: -991497787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1546
+        width: 22
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebf118424d198e4bb65bcba8e957b3d
+      internalID: 1435449075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1546
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c732e0cef9b764db17eef70ebc4f0c
+      internalID: 494364188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1546
+        width: 23
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdc6baa046aca74b9d69d64f9ec8806
+      internalID: 176395073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1546
+        width: 24
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f1c24817ac0574baf43524beba74b5
+      internalID: 35945384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1546
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26e379245ab8d94085ce1f9b62e48ab
+      internalID: -165090994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1546
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd2550d7bf8d934cb6dde943a8d0c1b
+      internalID: 1168988056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1546
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b3478deaf3f65419ba3fa25db52efb
+      internalID: 770980065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1545
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e3bb7b4a2c86a4fbaf49824dcfef2b
+      internalID: 63201479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1481
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697de746219ae1241887c5262ac452a0
+      internalID: -1450277157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1481
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d21f51417950a46b41d970553d1d44
+      internalID: 974134128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1481
+        width: 22
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9da227f489a5e4589bf2062326dd14
+      internalID: -1634275925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1480
+        width: 22
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d383faf7d3d4b04398ac766922c5147
+      internalID: -1274983929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1481
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c36bc60b3e86444394f316b321a3b9a
+      internalID: 1276621849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1481
+        width: 23
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548df6f61a26617409c8759d261ae292
+      internalID: 1592960146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1481
+        width: 24
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d220ce9e31072034f88f64ae200e0211
+      internalID: 1182743675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1481
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e1851f50429c6439d2cf96bceb0c6d
+      internalID: -750366715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_19
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1481
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b972d2d12a304548bdd0d89d71c2846
+      internalID: 175118831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1481
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc16c868b728bc84e832325c593aa694
+      internalID: 1035337828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_21
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1481
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8440cce600d392949a5250813f8b6ae4
+      internalID: -248533282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1412
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4af5a5fbf99f64d86cb13a62ca26f3
+      internalID: 1927664170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1412
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74383131a306fd044846a8af1b72ae1f
+      internalID: 163406244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1412
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1bdde1063239d4593c14948ba45155
+      internalID: -716117198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1413
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ff6e11b723204794c6a4c0bcea1e4
+      internalID: 142886682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1412
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d1388721031347802132531fbbf7e
+      internalID: -1345039287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1412
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666b811d5a95ed2448be02c861b3b467
+      internalID: 1745670937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_28
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1412
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbc933ea08e6f248a1f73dd704d4f0b
+      internalID: -1942045475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_29
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1412
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb081cd7b5942ed408600cc41969b3d3
+      internalID: -1316452167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_30
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1410
+        width: 26
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc2d5bd812eb1498da9112d19ac9f5
+      internalID: -200492062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_31
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1411
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2552871dc183145866d6927c73b6ac
+      internalID: 365985303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_32
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1411
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dfcfb784a0b2b4d8e0a011ef83ca60
+      internalID: -1757319046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_33
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1346
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2583fbe9eaf74bf40a0817f707c7065f
+      internalID: -562880652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1347
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88638c45ba0843246b8b0a1e6ac0dd04
+      internalID: 1167477819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1346
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ccfbf5a507a84aa4c26d1caaef503
+      internalID: 285871584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1346
+        width: 24
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba31d85bc6a6342a59ec1253a55300
+      internalID: -649637442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_37
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1346
+        width: 24
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ab689e779f1ae42a81304ba6bd41fe
+      internalID: -919894646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_38
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1346
+        width: 23
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e325b13870d1004ba088c6f51229105
+      internalID: -1046258961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_39
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1346
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b15bdeec98d88640a1a49ed65167486
+      internalID: -776074478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_40
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1346
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5f5ac821127ba4696eddea3e8bc18a
+      internalID: 577237147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_41
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1346
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75feb7932d4a0364eb74fcf463b5f1b6
+      internalID: -1337935191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_42
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1346
+        width: 24
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7a2884ae4f50c439a3751dfa0c0307
+      internalID: 1163731969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_43
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1347
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7b0517ee50aa4884f52a3f172e375
+      internalID: 719000735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1280
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea224b9e5ce8cf34ebc8259955ff22ed
+      internalID: -310672672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1281
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c7ac3cca0c1e34bb790972880bfe2b
+      internalID: -1032702501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_46
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1282
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f18dbc12308ce42b048e826d04f8ee
+      internalID: 679392170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1283
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf11b4c7c612b74c8721145181748df
+      internalID: 904341607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1282
+        width: 30
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aea4c6ceb9c2544a9a11e04561bdd6
+      internalID: 933275950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_49
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1282
+        width: 31
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fbde71125092a4ea8861743cde0a14
+      internalID: 174917752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1280
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b066efce97722864aae104b141c3ff85
+      internalID: -1569419696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_51
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1280
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62fe8d539e1ecf4d948c8f824544a68
+      internalID: 107228255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_52
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1280
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a45805c6b9a1444a9c83a21a9e792f
+      internalID: -544078540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_53
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1280
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f366f25f756834c9fe729f6302ae62
+      internalID: -1270319173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_54
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1280
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f216dfe215d524e97441af01edb23b
+      internalID: 684950052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1216
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ff68bc8049224dadb14f1c9435c67
+      internalID: 1548576002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1217
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656d50d52558d37428d16ae6408ffb3d
+      internalID: 2141134722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1218
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9afc34a78d25cc4caaccc09baec5f9c
+      internalID: -1642449146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1218
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27e6e989bd8834887c95d7c4302316
+      internalID: 1904054407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1218
+        width: 30
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b6ca618ab2fb40bd4441f187d5117
+      internalID: 241532920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1218
+        width: 31
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53576af4d29aee4ba95e8a105fa6f5c
+      internalID: 253679338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1216
+        width: 30
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42559b122e6ee3c4092d28a8807368dc
+      internalID: -1091669666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1216
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200b9c91039c282489268e0e53cddf62
+      internalID: -435527353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1216
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38ff06098c0f0b419600f0e81d321e6
+      internalID: -1777467947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1216
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1231c3d0d6a99b4486fda82789277ab
+      internalID: -1644423462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_65
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1216
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b04eaea3e2c5d4f91db3eebe5ca8e9
+      internalID: -919148840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1152
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cea8ad3850f61747addc27fc43ba4d2
+      internalID: -808731031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca12aee0ff128845b158a178e20acd9
+      internalID: 653352899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1152
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d98d5d93f9e1a49b183f4968cb9120
+      internalID: -323960076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1152
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a46a22769a44d4bb090a6b9ddcfbca
+      internalID: -1636553408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1152
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335981de61cb88f4db40be1f60c788c9
+      internalID: -2069453962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d71dc0eb05e474191652a4607fe303
+      internalID: -1443822602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_72
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1152
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d98652e7af12545bcba985c7b36c3b
+      internalID: 1317865898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_73
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1152
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae411839dd24b340b344f14f8799a79
+      internalID: -1271595025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1152
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b9a24fc8ca72849b046a807c71235c
+      internalID: -1744483275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1ffd2f623ba7545bbfdc4f392778aa
+      internalID: 566563950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_76
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1152
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caa326d645cb544783902d904e1762a
+      internalID: -1771341847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_77
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1088
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c241376ff6d86b947a7688d64e247f9f
+      internalID: 237438004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1088
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46be3eb4e2a36f4d896699ce4f93f60
+      internalID: 420741877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_79
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1088
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba33a0754b99e645b2b5fbcb7d343d7
+      internalID: 2023590964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_80
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1088
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a33c626b1534224c891a4290364cb56
+      internalID: -1186400141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1088
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e6323229df224c96c5bc1ee758f87
+      internalID: 1658395977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_82
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1088
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25037c1e3fa6e1a4284711d987757840
+      internalID: -34505565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_83
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1088
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c54084b8c1f90e44982ddf295e42bfb
+      internalID: -1318230028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_84
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1089
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e62ae8d2e9d2045af0bf1d917a1a47
+      internalID: 1325812531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_85
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1088
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b228d6b2a224369409e666c92d9a33ac
+      internalID: -703193137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_86
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1088
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e464b4f0d77064ba54cbef6fca777f
+      internalID: -873259093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_87
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1088
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34c0e8910aa8034187ae3534c5856d0
+      internalID: -1322709862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_88
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1024
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a54fa8e15faa5418923789606742b8
+      internalID: 1271265266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_89
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1024
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cf4f23a83886b46ab099e624881b08
+      internalID: -444508726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 960
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7506e49b08d67c344ade4a5a45491ac7
+      internalID: 1008659739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 960
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec0ed1bbd36e264cbad59211bffe987
+      internalID: -456678058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_92
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 896
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe519e66e4df404cafe55cf71874046
+      internalID: -320040607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_93
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 896
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa4a0131a4b60f42bb2e640e3b96159
+      internalID: -2002545148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_94
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 832
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2238267d04ed78c46b82998ecd4b09ff
+      internalID: -741427480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_95
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 832
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e0467326413f84fba526a4855c7075
+      internalID: -149144021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_96
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 768
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32bb62a10c5fba45b3718b64ce3ccac
+      internalID: -898737933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_97
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 768
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8821e3d4b8009c43a71e7b4a553e93b
+      internalID: -801463517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_98
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 768
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851e7966e68e2634e9166c10b2f7e5d3
+      internalID: -677050453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_99
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 768
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bf916ac765d0748aa7380252b95a8c
+      internalID: 642690062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_100
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 768
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3d7c3e9856e2d43b7065db9ee2972a
+      internalID: -1605085288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_101
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 768
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd83df95756ec7448d742527d1d3365
+      internalID: -1913866208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_102
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 768
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d9b4089c9e0894ba3214c81c2ae4d9
+      internalID: -150312623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_103
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 768
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1496542b8586d8542bd35b25c3b5522a
+      internalID: -559367429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_104
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 768
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2a7d84696c3234ba141bb19a11160f
+      internalID: -1995016300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 704
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdc3f757d637384f968906d880e2093
+      internalID: -1012744416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528e56b368f1089458448530ccc412c6
+      internalID: 183558762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 704
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd739c99e06ecee4b87fb6483ce3e9a0
+      internalID: 1472026185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a193169fc645047bc4a0a024d7dfc8
+      internalID: -1250121086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_109
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 704
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15334f0a70d901841a52d4c4b4730edc
+      internalID: 51115804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d77ca571b89e094899e5e6f6f9f0e74
+      internalID: -825835539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_111
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 704
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedc0fb68723c884b98561a5fd00a4e1
+      internalID: 940286012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_112
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 704
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7612161588a65ff46834fbf40858dc00
+      internalID: 1029587805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_113
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 704
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009cbdecbfc6193428e8ba2c6848f633
+      internalID: 313810335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_114
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11abdef2ba4932744ac3fd6a8ab4952f
+      internalID: 968461498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4281c92d5968a41b4498b99eb6595e
+      internalID: -875855746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ad1dcf3b34d1a49a8f1521277da01c
+      internalID: 1934283927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_117
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 576
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f86c94868eaf3b41ba63188a4c1e105
+      internalID: 156048607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_118
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 576
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc774d206adaf54f819f69828825984
+      internalID: 1636883485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_119
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 399
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2af3010460d0a344a16a02be0d2684d
+      internalID: -1003493919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_120
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 399
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7352670dd3ba4fe43a2bbbdba51b5e65
+      internalID: 435501155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_121
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 399
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bab4f2038382143b13aaf0325b4c3c
+      internalID: -1722648672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_122
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 399
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5b153e6a51ac34490e3baa32c2a0d7
+      internalID: -1801697958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 399
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ec2f1618d67b942ba943d6bf816589
+      internalID: -519358705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_124
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 399
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0c88537f0ca3a4fa44043f4acc7b78
+      internalID: -437658222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_125
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 399
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a10919142ecf6c43b7200e6ee56a38c
+      internalID: -2106808877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_126
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 399
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded57b371a19b7943a5e6265a556ee12
+      internalID: -1246694795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_127
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 399
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70ef31dae6e43c44a47b1980ac7c8a2
+      internalID: 686974775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_128
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 399
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322ec12f676719544ad5d073a3602622
+      internalID: -549734337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_129
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 399
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8211a57b84c04344aa2944fdfe1addc
+      internalID: 24868525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_130
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 327
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ac53ace5c73314cb9b21c8600ef699
+      internalID: 100264698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_131
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 327
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6319549e459d67641bd04b7e536d5a3a
+      internalID: -536650622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_132
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 327
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e8d00e8409974197f2ae2bbe21f4f
+      internalID: 1565589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_133
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 326
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5503ce6af845b4c8e91b3b2356c8fb
+      internalID: 1046850998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_134
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 327
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940f73c970c69eb4fb40b61a626d17ca
+      internalID: 1026099735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_135
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 327
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf07c9aa4300104cb8136858eb0908c
+      internalID: 396507261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_136
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 327
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0aebfedf57460479ac43d4b4d23ed2
+      internalID: 1360931372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_137
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 327
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec9b4e5316b1d34187f81e95f8683ab
+      internalID: -1898184164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_138
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 327
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7b5401fc13ef740bb3109c761b7cb1
+      internalID: -803576332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_139
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 327
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5548edbc26f1d46885495d7d7a74a5
+      internalID: 438878079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_140
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 327
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1c00a7c765e8b4ea5337868b258063
+      internalID: -104797801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_141
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 253
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8722cedb3575d5943bcca723d0e96932
+      internalID: 980717505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_142
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 253
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6585ada67cb499442b5f9f4e92894608
+      internalID: -105095902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_143
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 253
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a39704b3ab40248ac68854ed80d038
+      internalID: 513751863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_144
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 254
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62fbcea1e912124fb2e4fba5e421c46
+      internalID: 649905006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_145
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 253
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7e1b68105024944acaa71d5b706a0a
+      internalID: -543831809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_146
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 253
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f110418b219c84aa3f92c456caeaf6
+      internalID: 1399886976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_147
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 253
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6d13d19ea978b4e861e9d849ef0d6f
+      internalID: -1804709354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_148
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 253
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480fc320b0d31254f94e680c9aeb354b
+      internalID: -10004203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_149
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 254
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff55c832122c27b4aa4506cabfbd63e1
+      internalID: -938067845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_150
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 253
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f05fb648e35f8b479bf7d1932288e24
+      internalID: 927685976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_151
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 253
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e37533a2785184449daec507fcba6aa
+      internalID: 1238241370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_152
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 175
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee4900343afa74199b7f8971b6f593
+      internalID: -2087078607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_153
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 175
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2677a7f6459438a4d9d24e9c22ff869d
+      internalID: -877760915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_154
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 175
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661bfa72889fd854ebb31dee9b0e6d6e
+      internalID: -2110692823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_155
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 175
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c90e878ca7fb042b5028244572804b
+      internalID: -1330192604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 175
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb07f4879fdc0f42be274740176648e
+      internalID: 404663952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_157
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 175
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406a0048b000c9f4382e019be29cbddc
+      internalID: -1085830050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_158
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 175
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce57a141761e33b4d98f9dfe79a3286c
+      internalID: 1139044685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_159
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 175
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bce6719329f1e46a88aeead202124d
+      internalID: -103074752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_160
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 175
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8fafe071ef9ef458a6995e0e433f9b
+      internalID: -2119361451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_161
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 175
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db11f75cc4cf4044aed491b3d77a1db
+      internalID: -1302152138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PFSprites8WalkIdle_162
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 176
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1670213825ac56948b54cb088a122839
+      internalID: -248687705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PFSprites8WalkIdle_33: -562880652
+      PFSprites8WalkIdle_51: 107228255
+      PFSprites8WalkIdle_69: -1636553408
+      PFSprites8WalkIdle_47: 904341607
+      PFSprites8WalkIdle_160: -2119361451
+      PFSprites8WalkIdle_152: -2087078607
+      PFSprites8WalkIdle_77: 237438004
+      PFSprites8WalkIdle_46: 679392170
+      PFSprites8WalkIdle_112: 1029587805
+      PFSprites8WalkIdle_90: 1008659739
+      PFSprites8WalkIdle_63: -1777467947
+      PFSprites8WalkIdle_157: -1085830050
+      PFSprites8WalkIdle_129: 24868525
+      PFSprites8WalkIdle_136: 1360931372
+      PFSprites8WalkIdle_74: -1744483275
+      PFSprites8WalkIdle_93: -2002545148
+      PFSprites8WalkIdle_132: 1565589
+      PFSprites8WalkIdle_134: 1026099735
+      PFSprites8WalkIdle_146: 1399886976
+      PFSprites8WalkIdle_8: 1168988056
+      PFSprites8WalkIdle_0: -1050453525
+      PFSprites8WalkIdle_58: 1904054407
+      PFSprites8WalkIdle_41: -1337935191
+      PFSprites8WalkIdle_43: 719000735
+      PFSprites8WalkIdle_147: -1804709354
+      PFSprites8WalkIdle_158: 1139044685
+      PFSprites8WalkIdle_124: -437658222
+      PFSprites8WalkIdle_84: 1325812531
+      PFSprites8WalkIdle_2: -991497787
+      PFSprites8WalkIdle_111: 940286012
+      PFSprites8WalkIdle_35: 285871584
+      PFSprites8WalkIdle_91: -456678058
+      PFSprites8WalkIdle_66: -808731031
+      PFSprites8WalkIdle_45: -1032702501
+      PFSprites8WalkIdle_145: -543831809
+      PFSprites8WalkIdle_113: 313810335
+      PFSprites8WalkIdle_122: -1801697958
+      PFSprites8WalkIdle_42: 1163731969
+      PFSprites8WalkIdle_148: -10004203
+      PFSprites8WalkIdle_123: -519358705
+      PFSprites8WalkIdle_23: 163406244
+      PFSprites8WalkIdle_144: 649905006
+      PFSprites8WalkIdle_106: 183558762
+      PFSprites8WalkIdle_108: -1250121086
+      PFSprites8WalkIdle_96: -898737933
+      PFSprites8WalkIdle_104: -1995016300
+      PFSprites8WalkIdle_143: 513751863
+      PFSprites8WalkIdle_142: -105095902
+      PFSprites8WalkIdle_82: -34505565
+      PFSprites8WalkIdle_87: -1322709862
+      PFSprites8WalkIdle_10: 63201479
+      PFSprites8WalkIdle_24: -716117198
+      PFSprites8WalkIdle_14: -1274983929
+      PFSprites8WalkIdle_57: -1642449146
+      PFSprites8WalkIdle_68: -323960076
+      PFSprites8WalkIdle_126: -1246694795
+      PFSprites8WalkIdle_150: 927685976
+      PFSprites8WalkIdle_62: -435527353
+      PFSprites8WalkIdle_151: 1238241370
+      PFSprites8WalkIdle_37: -919894646
+      PFSprites8WalkIdle_48: 933275950
+      PFSprites8WalkIdle_9: 770980065
+      PFSprites8WalkIdle_116: 1934283927
+      PFSprites8WalkIdle_13: -1634275925
+      PFSprites8WalkIdle_20: 1035337828
+      PFSprites8WalkIdle_99: 642690062
+      PFSprites8WalkIdle_31: 365985303
+      PFSprites8WalkIdle_21: -248533282
+      PFSprites8WalkIdle_101: -1913866208
+      PFSprites8WalkIdle_67: 653352899
+      PFSprites8WalkIdle_139: 438878079
+      PFSprites8WalkIdle_118: 1636883485
+      PFSprites8WalkIdle_32: -1757319046
+      PFSprites8WalkIdle_120: 435501155
+      PFSprites8WalkIdle_12: 974134128
+      PFSprites8WalkIdle_127: 686974775
+      PFSprites8WalkIdle_55: 1548576002
+      PFSprites8WalkIdle_18: -750366715
+      PFSprites8WalkIdle_60: 253679338
+      PFSprites8WalkIdle_149: -938067845
+      PFSprites8WalkIdle_7: -165090994
+      PFSprites8WalkIdle_155: -1330192604
+      PFSprites8WalkIdle_39: -776074478
+      PFSprites8WalkIdle_72: 1317865898
+      PFSprites8WalkIdle_80: -1186400141
+      PFSprites8WalkIdle_114: 968461498
+      PFSprites8WalkIdle_73: -1271595025
+      PFSprites8WalkIdle_30: -200492062
+      PFSprites8WalkIdle_130: 100264698
+      PFSprites8WalkIdle_83: -1318230028
+      PFSprites8WalkIdle_56: 2141134722
+      PFSprites8WalkIdle_98: -677050453
+      PFSprites8WalkIdle_154: -2110692823
+      PFSprites8WalkIdle_88: 1271265266
+      PFSprites8WalkIdle_11: -1450277157
+      PFSprites8WalkIdle_156: 404663952
+      PFSprites8WalkIdle_107: 1472026185
+      PFSprites8WalkIdle_81: 1658395977
+      PFSprites8WalkIdle_102: -150312623
+      PFSprites8WalkIdle_140: -104797801
+      PFSprites8WalkIdle_92: -320040607
+      PFSprites8WalkIdle_70: -2069453962
+      PFSprites8WalkIdle_117: 156048607
+      PFSprites8WalkIdle_25: 142886682
+      PFSprites8WalkIdle_135: 396507261
+      PFSprites8WalkIdle_19: 175118831
+      PFSprites8WalkIdle_5: 176395073
+      PFSprites8WalkIdle_100: -1605085288
+      PFSprites8WalkIdle_97: -801463517
+      PFSprites8WalkIdle_78: 420741877
+      PFSprites8WalkIdle_22: 1927664170
+      PFSprites8WalkIdle_137: -1898184164
+      PFSprites8WalkIdle_161: -1302152138
+      PFSprites8WalkIdle_3: 1435449075
+      PFSprites8WalkIdle_6: 35945384
+      PFSprites8WalkIdle_15: 1276621849
+      PFSprites8WalkIdle_103: -559367429
+      PFSprites8WalkIdle_36: -649637442
+      PFSprites8WalkIdle_153: -877760915
+      PFSprites8WalkIdle_76: -1771341847
+      PFSprites8WalkIdle_54: 684950052
+      PFSprites8WalkIdle_59: 241532920
+      PFSprites8WalkIdle_28: -1942045475
+      PFSprites8WalkIdle_95: -149144021
+      PFSprites8WalkIdle_138: -803576332
+      PFSprites8WalkIdle_64: -1644423462
+      PFSprites8WalkIdle_159: -103074752
+      PFSprites8WalkIdle_44: -310672672
+      PFSprites8WalkIdle_141: 980717505
+      PFSprites8WalkIdle_119: -1003493919
+      PFSprites8WalkIdle_38: -1046258961
+      PFSprites8WalkIdle_49: 174917752
+      PFSprites8WalkIdle_128: -549734337
+      PFSprites8WalkIdle_121: -1722648672
+      PFSprites8WalkIdle_16: 1592960146
+      PFSprites8WalkIdle_27: 1745670937
+      PFSprites8WalkIdle_71: -1443822602
+      PFSprites8WalkIdle_133: 1046850998
+      PFSprites8WalkIdle_29: -1316452167
+      PFSprites8WalkIdle_85: -703193137
+      PFSprites8WalkIdle_110: -825835539
+      PFSprites8WalkIdle_34: 1167477819
+      PFSprites8WalkIdle_40: 577237147
+      PFSprites8WalkIdle_94: -741427480
+      PFSprites8WalkIdle_1: -843244212
+      PFSprites8WalkIdle_131: -536650622
+      PFSprites8WalkIdle_115: -875855746
+      PFSprites8WalkIdle_105: -1012744416
+      PFSprites8WalkIdle_75: 566563950
+      PFSprites8WalkIdle_125: -2106808877
+      PFSprites8WalkIdle_17: 1182743675
+      PFSprites8WalkIdle_61: -1091669666
+      PFSprites8WalkIdle_86: -873259093
+      PFSprites8WalkIdle_4: 494364188
+      PFSprites8WalkIdle_162: -248687705
+      PFSprites8WalkIdle_26: -1345039287
+      PFSprites8WalkIdle_89: -444508726
+      PFSprites8WalkIdle_53: -1270319173
+      PFSprites8WalkIdle_50: -1569419696
+      PFSprites8WalkIdle_79: 2023590964
+      PFSprites8WalkIdle_65: -919148840
+      PFSprites8WalkIdle_52: -544078540
+      PFSprites8WalkIdle_109: 51115804
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
